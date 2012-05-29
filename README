@@ -4,7 +4,7 @@
 ofxCairoTexture
 
 Use the Cairo graphics library to draw into OpenGL textures.
-An addon for openFrameworks.cc
+An addon for openFrameworks.cc.
 
 - draw smoothed vector graphic shapes into textures
 - access the texture's pixels

@@ -1,0 +1,689 @@
+// !$*UTF8*$!
+{
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F5D25FC91425AC30007CCE86 /* ofxCairoTexture */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* ofxCairoTexture */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* ofxCairoTexture */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = F5D25FD21425AC4F007CCE86 /* Code sense */;
+		executables = (
+			F5D25FC91425AC30007CCE86 /* ofxCairoTexture */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1677,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1637,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 360005498;
+			PBXWorkspaceStateSaveDate = 360005498;
+		};
+		perUserProjectItems = {
+			F525764214904A0C00FAD92A = F525764214904A0C00FAD92A /* PBXTextBookmark */;
+			F568EBFC1534BE1300FEBACE = F568EBFC1534BE1300FEBACE /* PBXTextBookmark */;
+			F56B763114955A7800020E11 = F56B763114955A7800020E11 /* PBXTextBookmark */;
+			F56B773C1495777800020E11 = F56B773C1495777800020E11 /* PBXTextBookmark */;
+			F56B7746149577E200020E11 = F56B7746149577E200020E11 /* PBXTextBookmark */;
+			F56B77D9149597FD00020E11 = F56B77D9149597FD00020E11 /* PBXTextBookmark */;
+			F58C1073148D8894003D849D = F58C1073148D8894003D849D /* PBXTextBookmark */;
+			F58C1074148D8894003D849D = F58C1074148D8894003D849D /* PBXTextBookmark */;
+			F58C10BE148D8E05003D849D = F58C10BE148D8E05003D849D /* PBXTextBookmark */;
+			F5C96DDB148760DE00D95092 = F5C96DDB148760DE00D95092 /* PBXTextBookmark */;
+			F5C96ECE1487F44100D95092 = F5C96ECE1487F44100D95092 /* PBXTextBookmark */;
+			F5C96FA21487FCE800D95092 = F5C96FA21487FCE800D95092 /* PBXTextBookmark */;
+			F5C9707B14880FA100D95092 = F5C9707B14880FA100D95092 /* PBXTextBookmark */;
+			F5DA7D4715093CBE0046196B = F5DA7D4715093CBE0046196B /* PBXTextBookmark */;
+			F5DA7D4A15093CBE0046196B = F5DA7D4A15093CBE0046196B /* PBXTextBookmark */;
+			F5DA7D4D15093CBE0046196B = F5DA7D4D15093CBE0046196B /* PBXTextBookmark */;
+			F5DA7D4E15093CBE0046196B = F5DA7D4E15093CBE0046196B /* PBXTextBookmark */;
+			F5DA7D4F15093CBE0046196B = F5DA7D4F15093CBE0046196B /* PBXTextBookmark */;
+			F5DA7D6815093D8A0046196B = F5DA7D6815093D8A0046196B /* PBXTextBookmark */;
+			F5DA7EA8150984420046196B = F5DA7EA8150984420046196B /* PBXTextBookmark */;
+			F5F2318214BFF35500BD8B66 = F5F2318214BFF35500BD8B66 /* PBXTextBookmark */;
+			F5F77EDF148854FE00222D8B = F5F77EDF148854FE00222D8B /* PBXTextBookmark */;
+			F5F77EE0148854FE00222D8B = F5F77EE0148854FE00222D8B /* PBXTextBookmark */;
+			F5F8A56A15749C9100537D61 = F5F8A56A15749C9100537D61 /* PBXTextBookmark */;
+			F5F8A64E1575331E00537D61 = F5F8A64E1575331E00537D61 /* PBXTextBookmark */;
+			F5F8A77F15753D4400537D61 = F5F8A77F15753D4400537D61 /* PBXTextBookmark */;
+			F5F8A7C215753F2500537D61 = F5F8A7C215753F2500537D61 /* PBXTextBookmark */;
+			F5F8A7C315753F2500537D61 = F5F8A7C315753F2500537D61 /* PBXTextBookmark */;
+			F5F8A7C415753F2500537D61 = F5F8A7C415753F2500537D61 /* PBXTextBookmark */;
+			F5F8A7C515753F2500537D61 = F5F8A7C515753F2500537D61 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F5D25FD11425AC4F007CCE86 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* ofxCairoTexture */ = {
+		activeExec = 0;
+		executables = (
+			F5D25FC91425AC30007CCE86 /* ofxCairoTexture */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1855, 863}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 537}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1855, 1222}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{22, 1798}";
+			sepNavWindowFrame = "{{38, 221}, {1753, 1171}}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1855, 858}}";
+			sepNavSelRange = "{462, 0}";
+			sepNavVisRange = "{0, 505}";
+			sepNavWindowFrame = "{{222, 49}, {1184, 635}}";
+		};
+	};
+	F525764214904A0C00FAD92A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5F77F43148857F100222D8B /* apStatus.h */;
+		name = "apStatus.h: 6";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	F568EBFC1534BE1300FEBACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F568EBFD1534BE1300FEBACE /* ofGraphics.h */;
+		name = "ofGraphics.h: 17";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 0;
+	};
+	F568EBFD1534BE1300FEBACE /* ofGraphics.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofGraphics.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/libs/openFrameworks/graphics/ofGraphics.h;
+		sourceTree = "<absolute>";
+	};
+	F56B763114955A7800020E11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C3F1487546A00D95092 /* ofxColor.h */;
+		name = "ofxColor.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 271;
+		vrLoc = 0;
+	};
+	F56B773C1495777800020E11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C2F1487527700D95092 /* apFrameShapes.h */;
+		name = "apFrameShapes.h: 32";
+		rLen = 0;
+		rLoc = 616;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 0;
+	};
+	F56B7746149577E200020E11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C331487544D00D95092 /* apGesture.h */;
+		name = "apGesture.h: 32";
+		rLen = 32;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 199;
+	};
+	F56B77D9149597FD00020E11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F56B77DA149597FD00020E11 /* ofUtils.h */;
+		name = "ofUtils.h: 128";
+		rLen = 38;
+		rLoc = 3155;
+		rType = 0;
+		vrLen = 1168;
+		vrLoc = 2690;
+	};
+	F56B77DA149597FD00020E11 /* ofUtils.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofUtils.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/libs/openFrameworks/utils/ofUtils.h;
+		sourceTree = "<absolute>";
+	};
+	F58C1073148D8894003D849D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C151487521900D95092 /* apShapeData.h */;
+		name = "apShapeData.h: 21";
+		rLen = 24;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
+	};
+	F58C1074148D8894003D849D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C141487521900D95092 /* apShapeData.cpp */;
+		name = "apShapeData.cpp: 32";
+		rLen = 0;
+		rLoc = 478;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 0;
+	};
+	F58C10BE148D8E05003D849D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C171487522B00D95092 /* apShapeFileManager.cpp */;
+		name = "apShapeFileManager.cpp: 421";
+		rLen = 0;
+		rLoc = 9348;
+		rType = 0;
+		vrLen = 1387;
+		vrLoc = 9075;
+	};
+	F5C96C141487521900D95092 /* apShapeData.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = apShapeData.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apShapeData.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96C151487521900D95092 /* apShapeData.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apShapeData.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apShapeData.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96C171487522B00D95092 /* apShapeFileManager.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = apShapeFileManager.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apShapeFileManager.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96C181487522B00D95092 /* apShapeFileManager.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apShapeFileManager.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apShapeFileManager.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96C1A1487524200D95092 /* ofxCvBlobTree.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxCvBlobTree.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/ofxCvBlobTree.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96C1B1487524200D95092 /* ofxCvBlobTree.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxCvBlobTree.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/ofxCvBlobTree.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96C2E1487527700D95092 /* apFrameShapes.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = apFrameShapes.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apFrameShapes.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96C2F1487527700D95092 /* apFrameShapes.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apFrameShapes.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apFrameShapes.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96C331487544D00D95092 /* apGesture.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apGesture.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apGesture.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96C341487544D00D95092 /* apGesture.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = apGesture.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apGesture.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96C3E1487546A00D95092 /* ofxColor.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxColor.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/ofxColor.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96C3F1487546A00D95092 /* ofxColor.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxColor.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/ofxColor.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96C931487567D00D95092 /* ofxXmlSettings.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxXmlSettings.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/addons/ofxXmlSettings/src/ofxXmlSettings.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96D9E1487582900D95092 /* apGestureManager.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apGestureManager.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apGestureManager.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96D9F1487582900D95092 /* apGestureManager.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = apGestureManager.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apGestureManager.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96DDB148760DE00D95092 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C931487567D00D95092 /* ofxXmlSettings.cpp */;
+		name = "ofxXmlSettings.cpp: 380";
+		rLen = 0;
+		rLoc = 10049;
+		rType = 0;
+		vrLen = 1607;
+		vrLoc = 9470;
+	};
+	F5C96E011487673400D95092 /* apGesturePicker.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apGesturePicker.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apGesturePicker.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96E021487673400D95092 /* apGesturePicker.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = apGesturePicker.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apGesturePicker.cpp;
+		sourceTree = "<absolute>";
+	};
+	F5C96ECE1487F44100D95092 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96ECF1487F44100D95092 /* ofLog.h */;
+		name = "ofLog.h: 54";
+		rLen = 13;
+		rLoc = 1729;
+		rType = 0;
+		vrLen = 1756;
+		vrLoc = 3540;
+	};
+	F5C96ECF1487F44100D95092 /* ofLog.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofLog.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/libs/openFrameworks/utils/ofLog.h;
+		sourceTree = "<absolute>";
+	};
+	F5C96FA21487FCE800D95092 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96FA31487FCE800D95092 /* stl_vector.h */;
+		name = "stl_vector.h: 602";
+		rLen = 0;
+		rLoc = 20767;
+		rType = 0;
+		vrLen = 1657;
+		vrLoc = 19899;
+	};
+	F5C96FA31487FCE800D95092 /* stl_vector.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stl_vector.h;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/stl_vector.h";
+		sourceTree = "<absolute>";
+	};
+	F5C9707B14880FA100D95092 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C9707C14880FA100D95092 /* new_allocator.h */;
+		name = "new_allocator.h: 125";
+		rLen = 0;
+		rLoc = 3913;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 2595;
+	};
+	F5C9707C14880FA100D95092 /* new_allocator.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = new_allocator.h;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ext/new_allocator.h";
+		sourceTree = "<absolute>";
+	};
+	F5D25FC91425AC30007CCE86 /* ofxCairoTexture */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ofxCairoTexture;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F5D25FD11425AC4F007CCE86 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F5D25FD21425AC4F007CCE86 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F5DA7D4715093CBE0046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C181487522B00D95092 /* apShapeFileManager.h */;
+		name = "apShapeFileManager.h: 16";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 1;
+	};
+	F5DA7D4A15093CBE0046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C3E1487546A00D95092 /* ofxColor.cpp */;
+		name = "ofxColor.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	F5DA7D4D15093CBE0046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96D9E1487582900D95092 /* apGestureManager.h */;
+		name = "apGestureManager.h: 7";
+		rLen = 28;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	F5DA7D4E15093CBE0046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C2E1487527700D95092 /* apFrameShapes.cpp */;
+		name = "apFrameShapes.cpp: 61";
+		rLen = 0;
+		rLoc = 981;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 5161;
+	};
+	F5DA7D4F15093CBE0046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96E011487673400D95092 /* apGesturePicker.h */;
+		name = "apGesturePicker.h: 19";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 131;
+	};
+	F5DA7D6815093D8A0046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96D9F1487582900D95092 /* apGestureManager.cpp */;
+		name = "apGestureManager.cpp: 79";
+		rLen = 0;
+		rLoc = 1592;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 0;
+	};
+	F5DA7EA8150984420046196B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96E021487673400D95092 /* apGesturePicker.cpp */;
+		name = "apGesturePicker.cpp: 211";
+		rLen = 0;
+		rLoc = 4864;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 4088;
+	};
+	F5EF0DDC1560CB260051C245 /* iostream */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = iostream;
+		path = "/usr/include/c++/4.2.1/iostream";
+		sourceTree = "<absolute>";
+	};
+	F5EF0EF61560E5490051C245 /* ofxCairoTexture.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxCairoTexture.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxCairoTexture/Example/src/ofxCairoTexture.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1855, 2015}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{0, 2229}";
+		};
+	};
+	F5EF0EF71560E5490051C245 /* ofxCairoTexture.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxCairoTexture.cpp;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ofxCairoTexture/Example/src/ofxCairoTexture.cpp;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1855, 13793}}";
+			sepNavSelRange = "{1195, 0}";
+			sepNavVisRange = "{0, 1774}";
+			sepNavWindowFrame = "{{15, 242}, {1753, 1171}}";
+		};
+	};
+	F5F2318214BFF35500BD8B66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C341487544D00D95092 /* apGesture.cpp */;
+		name = "apGesture.cpp: 135";
+		rLen = 0;
+		rLoc = 3338;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 6595;
+	};
+	F5F77EDF148854FE00222D8B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C1A1487524200D95092 /* ofxCvBlobTree.cpp */;
+		name = "ofxCvBlobTree.cpp: 163";
+		rLen = 0;
+		rLoc = 3910;
+		rType = 0;
+		vrLen = 2233;
+		vrLoc = 2254;
+	};
+	F5F77EE0148854FE00222D8B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5C96C1B1487524200D95092 /* ofxCvBlobTree.h */;
+		name = "ofxCvBlobTree.h: 30";
+		rLen = 0;
+		rLoc = 575;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 0;
+	};
+	F5F77F43148857F100222D8B /* apStatus.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = apStatus.h;
+		path = /Applications/openFrameworks/of_preRelease_v0070_osx/apps/ActionPainting/PDFtoPNG02/src/apStatus.h;
+		sourceTree = "<absolute>";
+	};
+	F5F8A56A15749C9100537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 11";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	F5F8A64E1575331E00537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5EF0DDC1560CB260051C245 /* iostream */;
+		name = "iostream: 77";
+		rLen = 0;
+		rLoc = 2900;
+		rType = 0;
+		vrLen = 2249;
+		vrLoc = 741;
+	};
+	F5F8A77F15753D4400537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 62";
+		rLen = 0;
+		rLoc = 1709;
+		rType = 0;
+		vrLen = 1792;
+		vrLoc = 22;
+	};
+	F5F8A7C215753F2500537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5EF0EF61560E5490051C245 /* ofxCairoTexture.h */;
+		name = "ofxCairoTexture.h: 18";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 2229;
+		vrLoc = 0;
+	};
+	F5F8A7C315753F2500537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F5EF0EF71560E5490051C245 /* ofxCairoTexture.cpp */;
+		name = "ofxCairoTexture.cpp: 45";
+		rLen = 0;
+		rLoc = 1195;
+		rType = 0;
+		vrLen = 1774;
+		vrLoc = 0;
+	};
+	F5F8A7C415753F2500537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 25";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	F5F8A7C515753F2500537D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 14";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 1798;
+		vrLoc = 22;
+	};
+}

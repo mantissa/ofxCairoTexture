@@ -15,12 +15,17 @@ void testApp::setup(){
 	cairoTexture.setupGraphicDefaults();
 	//cairoTexture.setBlendMode(OF_BLENDMODE_SUBTRACT);
 	
-	// do a little drawing
-	//cairoTexture.background(ofColor(33, 255, 123));
-	cairoTexture.setLineWidth(35);
+	// do a little drawing:
+	// cairoTexture.background(ofColor(33, 33, 33));
+
 	cairoTexture.setFillMode(OF_FILLED);
 	cairoTexture.setColor(ofColor(255, 123, 33));
 	cairoTexture.drawCircle(ofGetWidth()/2, ofGetHeight()/2, 0, ofGetHeight()/3);
+	
+	cairoTexture.setFillMode(OF_OUTLINE);
+	cairoTexture.setLineWidth(15);
+	cairoTexture.setColor(ofColor(0, 123, 255));
+	cairoTexture.drawRectangle(100, 100, 0, 100, 100);
 	
 	// update the texture (copy pixels from cairo to texture)
 	cairoTexture.update();
